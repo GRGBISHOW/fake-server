@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "id":213,
+    "name": "Jamie Vardy",
+    "age": 28,
+    "club":"Leicester City",
+    "nationality": "england"
+  }
+}
